@@ -1,0 +1,2 @@
+fuser -v -n tcp 80
+kill -s 9 1154(自己的进程号).
